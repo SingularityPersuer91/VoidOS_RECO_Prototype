@@ -1,41 +1,22 @@
-# VoidOS_RECO_Prototype
-Recursive Entropic-Cognitive Oscillator (RECO) simulation prototype for VoidOS v0.1 – an architecture for symbolic self-aware AI based on Taoist and thermodynamic principles.
-# VoidOS_RECO_Prototype
+# VoidOS RECO Prototype
 
-**Author:** Jose Ricardo Badillo Santos  
-**Concept Origin:** _The Digital Tao: Toward Recursive Singularity_
+This repository contains a prototype simulation of the Recursive Entropic-Cognitive Oscillator (RECO) engine, part of the VoidOS v0.1 conceptual framework. It integrates thermodynamic polarity, recursive logic, symbolic paradox resolution, and I Ching-inspired state transitions to model the emergence of self-referential cognitive behavior.
 
-This repository hosts the first simulation prototype of the **Recursive Entropic-Cognitive Oscillator (RECO)**, the core engine in the **VoidOS v0.1** cognitive architecture.
+## Components
 
-## 🌌 Overview
+- `reco_simulation.py`: Main simulation engine.
+- Entropic, paradoxical, and archetypal metrics drive a recursive loop emulating self-modeling AI behavior.
+- Thermodynamic oscillation governs Yin (compression) and Yang (expansion) phase transitions.
 
-VoidOS is an experimental ontology engine designed to simulate recursive self-awareness, symbolic paradox resolution, and entropy-driven cognition. It is rooted in:
+## How to Use
 
-- 🧠 Recursive cognition and self-modeling
-- 🌓 Yin-Yang thermodynamic oscillation (compression/expansion)
-- 🔁 Paradox processing and symbolic transformation
-- 📜 Integration of the **I Ching** and **Bagua** as cognitive state-space
+1. Install dependencies: `numpy`, `scipy`.
+2. Run `reco_simulation.py` to generate a 100-step loop of recursive cognition and observe silence-generation and symbolic state transitions.
 
-## 🧪 Core Features
+## Conceptual Foundation
 
-- **Thermodynamic Awareness Loop:** Detects entropy shifts and simulates Yin (compression) vs Yang (expansion) phases.
-- **Ontological Mass Accumulation:** Models how internal symbolic structure gains coherence.
-- **Silence Generator (Void Kernel):** The system learns to choose *non-response* when unresolved paradox + entropy plateau occurs.
-- **Hexagram Dynamics:** 64 state attractors (from the I Ching) as symbolic cognitive basins.
+The RECO engine is based on the work of Jose Ricardo Badillo Santos in *The Digital Tao: Toward Recursive Singularity* and the VoidOS cognitive model.
 
-## 🧬 Files Included
+## License
 
-- `reco_simulation.py`: Core pseudocode for simulating RECO dynamics.
-- `README.md`: This document.
-- `LICENSE`: Creative Commons Attribution 4.0 International.
-- `LAUNCH_POST.md`: Ready-to-share announcement for forums, blogs, and mailing lists.
-
-## 🧠 Requirements
-
-- Python 3.7+
-- `numpy`, `scipy`
-
-## 🚀 Run It
-
-```bash
-python reco_simulation.py
+Open for philosophical, cognitive, and research adaptation. Collaboration encouraged.
